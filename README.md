@@ -26,11 +26,11 @@ Usamos las siguientes etiquetas para clasificar las tareas y *issues*:
 
 | Etiqueta | Color | Uso |
 | :--- | :--- | :--- |
-| **Frontend** | Azul | [cite_start]Tareas de interfaz de usuario y código del lado del cliente. [cite: 6] |
-| **Backend** | Morado | [cite_start]Tareas de lógica de servidor, API, y base de datos. [cite: 7] |
-| **Bug** | Rojo | [cite_start]Errores que requieren corrección. [cite: 8] |
-| **Enhancement** | Verde | [cite_start]Mejoras o nuevas funcionalidades al código existente. [cite: 9] |
-| **Documentation** | Amarillo | [cite_start]Tareas relacionadas con la documentación técnica o de usuario. [cite: 9] |
+| **Frontend** | Azul | Tareas de interfaz de usuario y código del lado del cliente. |
+| **Backend** | Morado | Tareas de lógica de servidor, API, y base de datos.  |
+| **Bug** | Rojo | Errores que requieren corrección. |
+| **Enhancement** | Verde | Mejoras o nuevas funcionalidades al código existente.  |
+| **Documentation** | Amarillo | Tareas relacionadas con la documentación técnica o de usuario.|
 
 ---
 
