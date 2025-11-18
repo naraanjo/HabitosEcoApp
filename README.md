@@ -10,7 +10,7 @@ Este proyecto está siendo desarrollado por:
 
 * **[Álvaro Naranjo]** (Owner/Desarrollador Principal)
 
-Hemos añadido a la profesora como colaboradora clave:
+ Profesora como colaboradora clave:
 * **ProfelsaDM** (Colaboradora) 
 
 ## ✨ Características Clave
