@@ -2,7 +2,7 @@
 
 ## 🚀 Visión General del Proyecto
 
-[cite_start]**HabitosEcoApp** es una aplicación móvil/web diseñada para ayudar a los usuarios a **adoptar y mantener hábitos más sostenibles** en su vida diaria.  A través de la gamificación y el seguimiento de progreso, la aplicación busca incentivar acciones como el reciclaje, el uso de transporte público, y el ahorro de energía, haciéndolas gratificantes.
+**HabitosEcoApp** es una aplicación móvil/web diseñada para ayudar a los usuarios a **adoptar y mantener hábitos más sostenibles** en su vida diaria.  A través de la gamificación y el seguimiento de progreso, la aplicación busca incentivar acciones como el reciclaje, el uso de transporte público, y el ahorro de energía, haciéndolas gratificantes.
 
 ## 🛠️ Estructura del Equipo y Colaboradores
 
@@ -11,7 +11,7 @@ Este proyecto está siendo desarrollado por:
 * **[Álvaro Naranjo]** (Owner/Desarrollador Principal)
 
 Hemos añadido a la profesora como colaboradora clave:
-* [cite_start]**ProfelsaDM** (Colaboradora) 
+* **ProfelsaDM** (Colaboradora) 
 
 ## ✨ Características Clave
 
@@ -22,7 +22,7 @@ Hemos añadido a la profesora como colaboradora clave:
 
 ## 📋 Etiquetas del Proyecto (Labels)
 
-[cite_start]Usamos las siguientes etiquetas para clasificar las tareas y *issues*: [cite: 5]
+Usamos las siguientes etiquetas para clasificar las tareas y *issues*:
 
 | Etiqueta | Color | Uso |
 | :--- | :--- | :--- |
